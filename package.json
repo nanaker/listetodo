@@ -2,6 +2,9 @@
     "name": "ma-todolist",
     "version": "0.1.0",
     "main" : "app.js",
+    "scripts" : {
+    "start" : "node app.js"
+  },
     "dependencies": {
         "express": "~4.11.0",
         "ejs": "~2.1.4",
