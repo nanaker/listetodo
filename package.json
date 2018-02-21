@@ -1,7 +1,7 @@
 {
     "name": "ma-todolist",
     "version": "0.1.0",
-    "main" : "myapp.js",
+    "main" : "app.js",
     "dependencies": {
         "express": "~4.11.0",
         "ejs": "~2.1.4",
